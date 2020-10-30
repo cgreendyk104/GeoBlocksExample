@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoBlocksExample</string>
+    <string name="title_activity_maps">GeoBlocks Map</string>
+    <string name="title_activity_geo_blocks">GeoBlocks</string>
+
+    <string name="dialog_title_add_geopoint">Would you like to add a geopoint at </string>
+    <string name="btn_delete_geo_block">Remove</string>
+</resources>
