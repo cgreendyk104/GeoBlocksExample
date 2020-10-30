@@ -37,7 +37,6 @@ class GeoBlocksAdapter (private var items : ArrayList<GeoBlockListItem>, private
     class ViewHolder (view: View) : RecyclerView.ViewHolder(view) {
         val blockTitle: TextView = view.tv_block_title
         val blockCount: TextView = view.tv_block_count
-        val removeBlockBtn: Button = view.btn_delete_block
     }
 }
 
