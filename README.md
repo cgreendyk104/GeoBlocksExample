@@ -17,5 +17,5 @@ By collecting geo-data and timestamp data from a specific bird species present i
 
 To Do
 ---
-[ ] Create a library to use the GeoBlocks
-[ ] Add block gaps and styling customization to library
+- [ ] Create a library to use the GeoBlocks
+- [ ] Add block gaps and styling customization to library
