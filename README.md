@@ -16,4 +16,4 @@ By collecting geo-data and timestamp data from a specific bird species present i
 | zebra stripes | are neat      | 
 
 
-![image](Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg){width="100px"}
+![](Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg = 200x)
