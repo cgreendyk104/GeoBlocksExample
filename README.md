@@ -3,7 +3,7 @@ A quick and fun app to display distribution maps on Google Maps :smiley:
 
 Idea
 ---
-This app is a quick demonstration of how Google Map Polygons can be used to create on the fly distribution maps, with help of **GeoBlocks**. GeoBlocks are rectangular geo-locations which represent a section of the world map. This is done by giving unique ids to each square of the map, determined by a provided **latitude gap** and **longitude gap**. The larger the gaps, the larger the *GeoBlock* representation will be.
+This app is a quick demonstration of how Google Map Polygons can be used to create on the fly distribution maps, with help of **GeoBlocks**. GeoBlocks are rectangular geo-locations which represent a section of the world map. This is done by giving unique ids to each square of the map, determined by a provided **latitude gap** and **longitude gap**. The larger the gaps, the larger the *GeoBlock* representation will be. Rather than pulling data from thousands of records, and plotting them with markers, you can pull GeoBlock data to get block count representations which hold the count of how many records exist in the current GeoBlock.
 
 Example Use Case
 ---
