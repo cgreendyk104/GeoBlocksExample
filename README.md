@@ -11,9 +11,7 @@ By collecting geo-data and timestamp data from a specific bird species present i
 
 | Week          | Screenshot      |
 | ------------- |:-------------:|
-| col 3 is      | 
-<img src="Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/>
-|
+| col 3 is      |  <img src="Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/> |
 | col 2 is      | centered      | 
 | zebra stripes | are neat      | 
 
