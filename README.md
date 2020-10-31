@@ -12,6 +12,10 @@ By collecting geo-data and timestamp data from a specific bird species present i
 | Week          | Screenshot      |
 | ------------- |:-------------:|
 | 1      |  <img src="Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/> |
-| 20     |  <img src="Screenshot_2020-10-31-23-44-43-793_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/>  | 
+| 31     |  <img src="Screenshot_2020-10-31-23-44-43-793_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/>  | 
 | 49     |  <img src="Screenshot_2020-10-31-23-44-49-307_com.ipifanisoft.geoblocksexample.jpg" alt="drawing" width="200"/>  |
 
+To Do
+---
+[ ] Create a library to use the GeoBlocks
+[ ] Add block gaps and styling customization to library
