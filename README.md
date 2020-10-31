@@ -8,3 +8,5 @@ This app is a quick demonstration of how Google Map Polygons can be used to crea
 Example Use Case
 ---
 By collecting geo-data and timestamp data from a specific bird species present in Germany, I created a slider and displayed the distribution by GeoBlocks for this species dependent on the week of the year. The slider starts at week 1 and ends at week 52.
+
+![image](Screenshot_2020-10-31-23-44-37-681_com.ipifanisoft.geoblocksexample.jpg)
